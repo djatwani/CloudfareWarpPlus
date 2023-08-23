@@ -177,7 +177,7 @@ warp-cli set-license $KEY_HERE
 
 ## **Download Cloudflare WARP (1.1.1.1)**
 
-**Cloudflare's WARP which is based on 1.1.1.1, world's fastest DNS resolver helps you to encrypt your Network traffic and surf the web faster and available for major Operating-Systems (OS):**/
+**Cloudflare's WARP which is based on 1.1.1.1, world's fastest DNS resolver helps you to encrypt your Network traffic and surf the web faster and available for major Operating-Systems (OS):**\
 **Android: [Download](https://play.google.com/store/apps/details?id=com.cloudflare.onedotonedotonedotone)**\
 **iOS: [Download](https://itunes.apple.com/us/app/1-1-1-1-faster-internet/id1423538627)**\
 **Windows: [Download](https://1111-releases.cloudflareclient.com/windows/Cloudflare_WARP_Release-x64.msi)**\
