@@ -175,7 +175,7 @@ warp-cli set-license $KEY_HERE
 
 <a name="download-cloudflare-warp-1111"></a>
 
-## ** Download Cloudflare WARP (1.1.1.1)**
+## **Download Cloudflare WARP (1.1.1.1)**
 
 **Cloudflare's WARP which is based on 1.1.1.1, world's fastest DNS resolver helps you to encrypt your Network traffic and surf the web faster and available for major Operating-Systems (OS):**
 **Android: [Download](https://play.google.com/store/apps/details?id=com.cloudflare.onedotonedotonedotone)**
@@ -209,7 +209,3 @@ WARP+ is for lifting the speed cap imposed by Cloudflare on free users which is 
 ## **How to use this data on PC?**
 
 #### **Open the WARP app in your phone and go to _Settings > Account > Key_ and copy the license key, now enter that key in WARP app on Windows or MacOS or Linux.**
-
-```
-
-```
