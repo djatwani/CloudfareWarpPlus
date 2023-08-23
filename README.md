@@ -27,9 +27,9 @@
 
 ## **Features**
 
-#### **1.Get 1GB per 30-50 seconds ! **
+#### **1.Get 1GB per 30-50 seconds !**
 
-#### **2.Run this almost everywhere ! **
+#### **2.Run this almost everywhere !**
 
 <a name="before-you-proceed"></a>
 
