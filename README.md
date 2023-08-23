@@ -16,9 +16,9 @@
 - [**Before you proceed**](#before-you-proceed)
 - [**How to use ?  How to get WARP CLIENT ID ?**](#how-to-use)
 - [**→ Run on Google Colab**](#run-on-google-colab)
-- [**→ 🖥️ Run on Computer**](#run-on-computer)
-- [**→ 🧰 Run on Jupyter Server**](#run-on-jupyter-server)
-- [**→ 📈 Update Values (📲 For Mobile & 🖥️ For Windows/Linux)**](#update-values)
+- [**→ Run on Computer**](#run-on-computer)
+- [**→ Run on Jupyter Server**](#run-on-jupyter-server)
+- [**→ Update Values (📲 For Mobile & 🖥️ For Windows/Linux)**](#update-values)
 - [**Download Cloudflare WARP (1.1.1.1)**](#download-cloudflare-warp-1111)
 - [**FAQ**](#faq)
 - [**How to use this data on PC ?**](#how-to-use-this-data-on-pc)
@@ -178,11 +178,11 @@ warp-cli set-license $KEY_HERE
 ## **Download Cloudflare WARP (1.1.1.1)**
 
 **Cloudflare's WARP which is based on 1.1.1.1, world's fastest DNS resolver helps you to encrypt your Network traffic and surf the web faster and available for major Operating-Systems (OS):**
-**Android: [Download](https://play.google.com/store/apps/details?id=com.cloudflare.onedotonedotonedotone)**
-**iOS: [Download](https://itunes.apple.com/us/app/1-1-1-1-faster-internet/id1423538627)**
-**Windows: [Download](https://1111-releases.cloudflareclient.com/windows/Cloudflare_WARP_Release-x64.msi)**
-**Mac: [Download](https://1111-releases.cloudflareclient.com/mac/Cloudflare_WARP.zip)**
-**Linux: [Download](https://pkg.cloudflareclient.com/)**
+**Android: [Download](https://play.google.com/store/apps/details?id=com.cloudflare.onedotonedotonedotone)**/
+**iOS: [Download](https://itunes.apple.com/us/app/1-1-1-1-faster-internet/id1423538627)**/
+**Windows: [Download](https://1111-releases.cloudflareclient.com/windows/Cloudflare_WARP_Release-x64.msi)**/
+**Mac: [Download](https://1111-releases.cloudflareclient.com/mac/Cloudflare_WARP.zip)**/
+**Linux: [Download](https://pkg.cloudflareclient.com/)**/
 
 <a name="faq"></a>
 
