@@ -7,25 +7,25 @@
 
 </div>
 
-## ** INDEX**
+## **INDEX**
 
 #### **Easily navigate through out the guide and pick the best method that suits you and your requirements!**
 
-- [** Cloudfare WARP+ UNLIMITED**](#warp-unlimited)
-- [** Features**](#features)
-- [** Before you proceed**](#before-you-proceed)
-- [** How to use ?  How to get WARP CLIENT ID ?**](#how-to-use)
+- [**Cloudfare WARP+ UNLIMITED**](#warp-unlimited)
+- [**Features**](#features)
+- [**Before you proceed**](#before-you-proceed)
+- [**How to use ?  How to get WARP CLIENT ID ?**](#how-to-use)
 - [**→ Run on Google Colab**](#run-on-google-colab)
 - [**→ 🖥️ Run on Computer**](#run-on-computer)
 - [**→ 🧰 Run on Jupyter Server**](#run-on-jupyter-server)
 - [**→ 📈 Update Values (📲 For Mobile & 🖥️ For Windows/Linux)**](#update-values)
-- [** Download Cloudflare WARP (1.1.1.1)**](#download-cloudflare-warp-1111)
-- [** FAQ**](#faq)
-- [** How to use this data on PC ?**](#how-to-use-this-data-on-pc)
+- [**Download Cloudflare WARP (1.1.1.1)**](#download-cloudflare-warp-1111)
+- [**FAQ**](#faq)
+- [**How to use this data on PC ?**](#how-to-use-this-data-on-pc)
 
 <a name="features"></a>
 
-## ** Features**
+## **Features**
 
 #### **1.Get 1GB per 30-50 seconds ! **
 
@@ -33,7 +33,7 @@
 
 <a name="before-you-proceed"></a>
 
-## ** Before you proceed**
+## **Before you proceed**
 
 **1.It doesn't matter if you have WARP or WARP+, this program works for both.** <br>
 **2.This is not hacking or gaining access to any Cloudflare system or their servers nor it is changing any official records illegally. This is just using official Cloudflare's API.**<br>
@@ -42,7 +42,7 @@
 
 <a name="how-to-use"></a>
 
-## ** How to use ?**
+## **How to use ?**
 
 #### **First get your WARP Client ID by navigating to _App > Settings > Advanced > Diagnostics_ and copy the ID under _CLIENT CONFIGURATION_ section _(note that you can get that ID only in the mobile app, not in the desktop app)_**
 
@@ -52,7 +52,7 @@
 
 <a name="run-on-google-colab"></a>
 
-## ** Run on Google Colab**
+## **Run on Google Colab**
 
 #### **1.Open code on Google Colab: [Open NoteBook](https://colab.research.google.com/github/TheCaduceus/WARP-UNLIMITED-ADVANCED/blob/main/ipynb/Colab.ipynb)**
 
@@ -62,7 +62,7 @@
 
 <a name="run-on-computer"></a>
 
-## ** Run on Computer**
+## **Run on Computer**
 
 #### **1.If your PC not have python & git installed, then install them first:**
 
@@ -105,7 +105,7 @@ py script.py
 
 <a name="run-on-jupyter-server"></a>
 
-## ** Run on Jupyter Server**
+## **Run on Jupyter Server**
 
 ##### **Setting up the Jupyter Server:**
 
@@ -151,19 +151,19 @@ jupyter notebook
 
 <a name="update-values"></a>
 
-## ** Update Values**
+## **Update Values**
 
 #### **After deploying or running this program, you have to update the "Data Remaining" value in your App.**
 
-### ** For Mobile:**
+### **For Mobile:**
 
 #### **Go to _Settings → Advanced → Connection Options → Press Reset Security Keys_**
 
-### ** For Windows:**
+### **For Windows:**
 
 #### **Just again enter your activation key!**
 
-### ** For Linux:**
+### **For Linux:**
 
 #### **Get activation key in the mobile app, then open terminal and execute:**
 
@@ -206,7 +206,7 @@ WARP+ is for lifting the speed cap imposed by Cloudflare on free users which is 
 
 <a name="how-to-use-this-data-on-pc"></a>
 
-## ** How to use this data on PC?**
+## **How to use this data on PC?**
 
 #### **Open the WARP app in your phone and go to _Settings > Account > Key_ and copy the license key, now enter that key in WARP app on Windows or MacOS or Linux.**
 
