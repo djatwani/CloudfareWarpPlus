@@ -54,7 +54,7 @@
 
 ## **Run on Google Colab**
 
-#### **1.Open code on Google Colab: [Open NoteBook](https://colab.research.google.com/github/TheCaduceus/WARP-UNLIMITED-ADVANCED/blob/main/ipynb/Colab.ipynb)**
+#### **1.Open code on Google Colab: [Open NoteBook](https://colab.research.google.com/github/djatwani/CloudfareWarpPlus/blob/main/ipynb/Colab.ipynb)**
 
 #### **2.Now enter your WARP Client ID and run The WARP (1.1.1.1) code as shown in the image _(click on the Play button on top-left corner)_**
 
@@ -141,7 +141,7 @@ jupyter notebook
 
 ![](./img/jp-2.png)
 
-#### **4.Now Download the "jupyter.ipynb" file: [from here only](https://github.com/TheCaduceus/WARP-UNLIMITED-ADVANCED/blob/main/ipynb/Server.ipynb)**
+#### **4.Now Download the "jupyter.ipynb" file: [from here only](https://github.com/djatwani/CloudfareWarpPlus/blob/0ef017142fee8e1ba827aea881d090272c2c9ee7/ipynb/Jupyter.ipynb)**
 
 #### **5.After downloading it, locate that file through your Jupyter server and open it as shown in the image and click Run.**
 
