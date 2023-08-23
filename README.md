@@ -182,7 +182,7 @@ warp-cli set-license $KEY_HERE
 **iOS: [Download](https://itunes.apple.com/us/app/1-1-1-1-faster-internet/id1423538627)**\
 **Windows: [Download](https://1111-releases.cloudflareclient.com/windows/Cloudflare_WARP_Release-x64.msi)**\
 **Mac: [Download](https://1111-releases.cloudflareclient.com/mac/Cloudflare_WARP.zip)**\
-**Linux: [Download](https://pkg.cloudflareclient.com/)**\
+**Linux: [Download](https://pkg.cloudflareclient.com/)**
 
 <a name="faq"></a>
 
